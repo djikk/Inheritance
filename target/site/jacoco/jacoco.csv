@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Inheritance,default,Book,7,9,0,0,3,3,2,1,2,1
+Inheritance,default,ProductRepository,0,83,0,6,0,17,0,7,0,4
+Inheritance,default,ProductManager,0,70,0,6,0,16,0,7,0,4
+Inheritance,default,Product,18,18,0,0,9,7,5,3,5,3
+Inheritance,default,Smartphone,8,9,0,0,3,3,2,1,2,1
